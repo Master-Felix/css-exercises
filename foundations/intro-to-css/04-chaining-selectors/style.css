@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+/* Style for elements with both 'avatar' and 'proportioned' classes */
+.avatar.proportioned {
+  width: 300px;
+  height: auto; /* Maintains the original proportions */
+}
+
+/* Style for elements with both 'avatar' and 'distorted' classes */
+.avatar.distorted {
+  width: 200px;
+  height: 400px; /* Explicitly set to twice the width */
+}

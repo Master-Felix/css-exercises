@@ -1,0 +1,19 @@
+.number1, .number3, .number5 {
+    background-color: rgb(243, 159, 159);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#number4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(144, 238, 144);
+}
